@@ -77,6 +77,19 @@ const products = [
     rating: 4,
     numReviews: 12,
   },
+  {
+    _id: '7',
+    name: 'Apple iPad 10.2 Inch 32GB white',
+    image: '/images/tablet.png',
+    description:
+      'iPad combines a beautiful 10.2-inch Retina display and tremendous capability with unmatched versatility and ease of use. And with the powerful A12 Bionic chip, support for Apple Pencil² And the amazing new things you can do with iPadOS 14, there is even more to love about iPad.',
+    brand: 'Apple',
+    category: 'Electronics',
+    price: 699.00,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 12,
+  },
 ]
 
 export default products

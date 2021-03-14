@@ -10,7 +10,6 @@ function App() {
     <Header/>
     <main className='py-3'>
       <Container>
-              <h1>Welcome to Blog Shop</h1>
               <HomeScreen/>
       </Container>
 
