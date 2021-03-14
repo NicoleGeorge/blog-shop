@@ -6,7 +6,7 @@ import products from '../products'
 const HomeScreen = () => {
   return (
     <>
-     {/* <h1>Latest Products</h1> */}
+     <h2>Latest Products</h2>
       <Row>
         { products.map(product => (
           <Col key={product._id} sm={12} med={6} lg={4} xl={3}>
