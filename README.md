@@ -1,6 +1,9 @@
 # blog-shop
 MERN stack eComm website. The latest tech equipment and accessories for serious bloggers.
 
-##Live Link
+## Live Link
 
-###Screenshots
+### Screenshots
+
+### References
+
